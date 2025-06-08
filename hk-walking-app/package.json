@@ -1,0 +1,17 @@
+{
+  "name": "hk-walking-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev:mp-weixin": "uniapp-cli dev:mp-weixin",
+    "dev:h5": "uniapp-cli dev:h5",
+    "dev:app": "uniapp-cli dev:app",
+    "build:mp-weixin": "uniapp-cli build:mp-weixin",
+    "build:h5": "uniapp-cli build:h5",
+    "build:app": "uniapp-cli build:app"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
